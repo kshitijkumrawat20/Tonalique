@@ -1,0 +1,268 @@
+---
+name: Warm Editorial Beauty Studio
+colors:
+  surface: '#FFFCF9'
+  surface-dim: '#ddd9d6'
+  surface-bright: '#fdf9f5'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f7f3ef'
+  surface-container: '#f1ede9'
+  surface-container-high: '#ebe7e4'
+  surface-container-highest: '#e6e2de'
+  on-surface: '#1c1c19'
+  on-surface-variant: '#504347'
+  inverse-surface: '#31302e'
+  inverse-on-surface: '#f4f0ec'
+  outline: '#827377'
+  outline-variant: '#d4c2c6'
+  surface-tint: '#824f62'
+  primary: '#562a3b'
+  on-primary: '#ffffff'
+  primary-container: '#704052'
+  on-primary-container: '#eeafc4'
+  inverse-primary: '#f5b5ca'
+  secondary: '#7b5453'
+  on-secondary: '#ffffff'
+  secondary-container: '#fecbc9'
+  on-secondary-container: '#7a5352'
+  tertiary: '#2b3c29'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#42533e'
+  on-tertiary-container: '#b2c6ac'
+  error: '#A33C42'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#ffd9e4'
+  primary-fixed-dim: '#f5b5ca'
+  on-primary-fixed: '#340e1e'
+  on-primary-fixed-variant: '#67384a'
+  secondary-fixed: '#ffdad8'
+  secondary-fixed-dim: '#ecbbb8'
+  on-secondary-fixed: '#2f1313'
+  on-secondary-fixed-variant: '#613d3c'
+  tertiary-fixed: '#d4e8cd'
+  tertiary-fixed-dim: '#b8ccb2'
+  on-tertiary-fixed: '#0f1f0e'
+  on-tertiary-fixed-variant: '#3a4b37'
+  background: '#fdf9f5'
+  on-background: '#1c1c19'
+  surface-variant: '#e6e2de'
+  canvas: '#F7F3EF'
+  surface-muted: '#EEE6E0'
+  ink: '#292326'
+  ink-muted: '#70666A'
+  plum-pressed: '#56303F'
+  rose-pale: '#F1DEDA'
+  amber: '#93651F'
+  border: '#E4DAD4'
+typography:
+  display:
+    fontFamily: DM Sans
+    fontSize: 32px
+    fontWeight: '400'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  display-mobile:
+    fontFamily: DM Sans
+    fontSize: 28px
+    fontWeight: '400'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: DM Sans
+    fontSize: 26px
+    fontWeight: '600'
+    lineHeight: 34px
+    letterSpacing: -0.015em
+  headline-md:
+    fontFamily: DM Sans
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: DM Sans
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Manrope
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-md:
+    fontFamily: Manrope
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  body-sm:
+    fontFamily: Manrope
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  label-lg:
+    fontFamily: Manrope
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+  label-md:
+    fontFamily: Manrope
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.03em
+  label-sm:
+    fontFamily: Manrope
+    fontSize: 11px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.04em
+  price-display:
+    fontFamily: Manrope
+    fontSize: 20px
+    fontWeight: '700'
+    lineHeight: 26px
+    letterSpacing: -0.01em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-tablet: 1.5rem
+  margin: 1.25rem
+  margin-tablet: 2rem
+  space-2xs: 0.25rem
+  space-xs: 0.5rem
+  space-sm: 0.75rem
+  space-md: 1rem
+  space-lg: 1.25rem
+  space-xl: 1.5rem
+  space-2xl: 2rem
+  space-3xl: 3rem
+---
+
+## Brand & Style
+
+This design system reflects a warm, editorial beauty studio. It moves away from clinical diagnostics, harsh medical grading, and discount shopping carts, embracing a warm minimalist aesthetic. The voice is personal, grounded, and non-prescriptive: the user defines their goals, budgets, and tastes, while the system provides curated cosmetic insights and virtual previews without imposing beauty ideals or synthetic "skin scores."
+
+### Personality & Tone
+- **Warm & Tactile:** Tactile paper tones, warm ivory canvases, and soft cosmetics-inspired hues create an intimate, studio-like atmosphere.
+- **Editorial & Curated:** Confident serif headlines paired with functional sans-serif body copy recall print beauty journals rather than algorithmic utility tools.
+- **Honest & Non-Clinical:** Terminology avoids diagnostic claims ("pores," "aging," "flaws"). The interface communicates cosmetic references, finish options, and budget constraints.
+- **Inclusive & Respectful:** No baseline skin tone, texture, or age is treated as a default. Color treatments and preview containers offer neutral, non-judgmental feedback.
+
+### Visual Style
+The design blends **Warm Minimalism** with **Editorial Beauty-Tech**. It utilizes generous negative space, gentle 20dp card contours, pill-shaped action triggers, whisper-thin borders, and low-contrast surface elevations. It avoids harsh dropshadows and heavy saturated primaries in favor of soft, natural undertones.
+
+## Colors
+
+The palette is anchored in organic cosmetic tones, warm ivory bases, and muted botanicals. It rejects pure clinical blacks and whites in favor of deep plum inks and cream surfaces.
+
+### Core Roles
+- **Primary (`#704052` - Plum):** Used for primary conversion points, selected radio indicators, and key editorial emphasis. Reflects warmth and depth.
+- **Secondary (`#D9A9A7` - Soft Rose):** A cosmetic tint used for decorative accents, subtle category framing, and selection highlights. Never used for body text.
+- **Tertiary (`#596B55` - Olive):** Grounded botanical tone reserved for positive confirmation, verified prices, and budget adherence cues.
+- **Neutral (`#F7F3EF` - Canvas):** The foundational ambient background tone, providing warmth without glare.
+
+### Named Functional Roles
+- `surface` (`#FFFCF9`): Elevated card and container background providing delicate contrast over the canvas.
+- `surface-muted` (`#EEE6E0`): Inset backgrounds, skeleton placeholders, and inactive segmented track wells.
+- `ink` (`#292326`): Deep charcoal plum for high-contrast primary typography and sharp iconography.
+- `ink-muted` (`#70666A`): Mid-tone plum gray for captions, secondary descriptions, and contextual notices.
+- `plum-pressed` (`#56303F`): State overlay for primary CTA tap interactions.
+- `rose-pale` (`#F1DEDA`): Wash background for non-critical informational badges and tag containers.
+- `amber` (`#93651F`): Restrained advisory tone for pending tasks, credit limits, or non-blocking notices.
+- `error` (`#A33C42`): Grounded earthy red for validation alerts, image framing rejections, and failed operations.
+- `border` (`#E4DAD4`): Low-contrast dividing line that organizes content cards and inputs without heavy drop shadows.
+
+## Typography
+
+Typography balances editorial grace with clean digital clarity. Headlines carry soft geometry and considered letterforms, while body and label hierarchy relies on Manrope for legible metadata, price points, and system disclosures.
+
+### Font Hierarchy
+- **Editorial Headlines (`DM Sans`):** Selected for warm, balanced structure. Used in display headers, screen intros, and look collection names.
+- **Body & Data (`Manrope`):** Modern geometric grotesque with open counters and balanced numerals. Used for product descriptions, analytical terms, and pricing.
+
+### Usage Directives
+- **Font Scaling:** Respect Android dynamic system font sizes. Never hard-code rigid vertical containers that truncate expanded text.
+- **Price Presentation:** Numerical currency totals utilize `price-display` in Manrope Bold to ensure clear numeric legibility.
+- **Disclaimers & Cosmetic Labels:** Contextual explanations, disclaimers, and metadata timestamps render in `body-sm` or `label-sm` with `ink-muted`.
+
+## Layout & Spacing
+
+The layout model is built on an Android native 4dp base unit, scaled fluidly to preserve breathing room across compact and standard viewport widths.
+
+### Form Factor Adaptations
+- **Mobile (360dp - 412dp):** Single column fluid container with a consistent `margin` of `20dp` (`1.25rem`) and `16dp` (`1rem`) internal gutters. Sections are stacked linearly with `space-xl` (24dp) spacing.
+- **Large Handsets & Foldables (412dp - 600dp):** Fluid container with expanded 24dp margins. Product recommendations reflow into balanced 2-column card pairs.
+- **Tablet / Large Foldable Expanded (> 600dp):** Centered content pane capped at 840dp max width, with dual panes for Try-On comparisons (left pane: interactive portrait; right pane: selected look drawer and shade controls).
+
+### Spacing Principles
+- Minimum interactive touch targets measure `48dp` (with standard buttons set to `52dp` height).
+- Padding inside cards is standardized to `16dp` (`space-md`), creating clean visual rhythm against the `20dp` page boundary.
+
+## Elevation & Depth
+
+Visual hierarchy relies on warm tonal layering, gentle contrasts, and fine borders rather than heavy dropshadows.
+
+### Surface Tiers
+1. **Tier 0 (Canvas):** The base `#F7F3EF` canvas.
+2. **Tier 1 (Surface Containers):** Cards, bottom sheets, and review panels sit on `#FFFCF9`, framed by a 1px solid border of `#E4DAD4`.
+3. **Tier 2 (Floating Overlays):** Interactive sticky bottom bars, comparison scrubbers, and modal sheets use `#FFFCF9` with a diffuse ambient shadow:
+   `box-shadow: 0px 8px 24px -4px rgba(41, 35, 38, 0.06), 0px 2px 6px 0px rgba(41, 35, 38, 0.03)`.
+4. **Tier 3 (Active Selection / Swatches):** Color swatches and active pills utilize an inner 2px outline in `#704052` combined with a soft 2dp tinted ring.
+
+### Diffuse Ambient Treatment
+Shadows are tinted with primary `ink` (`rgba(41, 35, 38)`) rather than pure black, maintaining a soft, natural aesthetic.
+
+## Shapes
+
+The shape system blends soft 20dp curves for large surfaces with pill radii for interactive controls.
+
+### Radius Assignments
+- **Cards & Frame Sheets:** `20dp` corner radius (`rounded-xl` in the token scale). Used for product recommendation cards, skin insight metric modules, and selfie preview windows.
+- **Text Inputs & Filter Selectors:** `14dp` to `16dp` corner radius (`rounded-lg`).
+- **Pill Triggers & Chips:** Fully rounded circular ends (`9999px`). Used for primary buttons, occasion selector chips, shade tags, and category pills.
+- **Swatches:** Fully rounded circles (`9999px`) with clean inset borders.
+
+## Components
+
+### Buttons
+- **Primary Button:** Pill-shaped (`rounded-full`), height `52dp`, background `plum` (`#704052`), label typography `label-lg` in `#FFFCF9`. On press, transitions to `plum-pressed` (`#56303F`) within 150ms.
+- **Secondary Button:** Pill-shaped, height `52dp`, background `surface` (`#FFFCF9`), border 1px solid `border` (`#E4DAD4`), text `ink` (`#292326`).
+- **Ghost Action:** Borderless, minimum height `48dp`, text `plum` (`#704052`), label typography `label-lg`.
+
+### Chips & Preference Selectors
+- **Unselected Chip:** Background `surface` (`#FFFCF9`), border 1px solid `border` (`#E4DAD4`), text `ink-muted` (`#70666A`), height `38dp`, corner radius `pill`.
+- **Selected Chip:** Background `rose-pale` (`#F1DEDA`), border 1px solid `plum` (`#704052`), text `plum` (`#704052`), font weight SemiBold.
+
+### Product Recommendation Cards
+- **Container:** Background `surface` (`#FFFCF9`), border 1px solid `border` (`#E4DAD4`), corner radius `20dp`, padding `16dp`.
+- **Image:** 1:1 aspect ratio cosmetic preview, corner radius `14dp`, background `surface-muted` (`#EEE6E0`).
+- **Metadata Stack:** Brand in `label-sm` (`ink-muted`), Product Name in `headline-sm` (`ink`), Shade and Finish in `body-sm`.
+- **Reason Tag:** Inset tag in `surface-muted` (`#EEE6E0`) with `ink` typography: "Matches satin preference."
+- **Price Block:** Uses `price-display` for verified pricing, paired with `label-sm` indicating timestamp: "Price verified today."
+
+### Virtual Try-On Comparison Module
+- **Split Container:** Corner radius `20dp`, border 1px solid `border`.
+- **Interactive Scrubber:** Thin 2dp vertical divider line in `#FFFCF9` with a centered `36dp` pill handle containing dual directional indicators.
+- **Accessibility Fallback:** Segmented control positioned below the viewfinder with `Before` and `Preview` options for TalkBack and non-drag interactions.
+- **Watermark / Disclaimer Pill:** Floating pill in `surface` with 80% opacity, typography `label-sm`, stating: "AI illustrative preview · Non-diagnostic."
+
+### Metric Insight Cards (Cosmetic Reference)
+- **Container:** 2-column grid cards, background `surface`, border 1px solid `border`, radius `20dp`, padding `14dp`.
+- **Tone:** Displays observed cosmetic attributes (e.g., "Hydration finish signal: Balanced"). Avoids numerical score gauges or grading colors (no red/green ratings).
+
+### Input Fields & Budget Selectors
+- **Input Container:** Height `52dp`, corner radius `14dp`, background `surface`, border 1px solid `border`. Focused state transitions border to `plum` (`#704052`) with a 2px stroke.
+- **Budget Quick Chips:** Horizontally scrollable row of pill options (`₹750`, `₹1,500`, `₹2,500`, `Custom`). Active chip displays an inset checkmark.
