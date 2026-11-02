@@ -16,3 +16,11 @@
 local.properties
 .env
 debug.keystore
+.expo/
+node_modules/
+mobile/.env
+mobile/.expo/
+mobile/dist/
+backend/.env
+backend/node_modules/
+brag-output

@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Tonalique",
+    "slug": "tonalique",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "tonalique",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Tonalique uses a photo you choose for cosmetic analysis and a virtual try-on preview."
+        }
+      ],
+      "expo-status-bar"
+    ],
+    "android": {
+      "package": "app.tonalique.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F3EF"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "app.tonalique.mobile"
+    }
+  }
+}
